@@ -1,2 +1,5 @@
-# claude-code-a-codex-migration-research
-Investigación práctica: migrar knowledge bases, skills y flujos de Claude Code a Codex
+# De Claude Code a Codex — investigación de migración
+
+Sitio estático con un resumen práctico para trasladar knowledge bases, skills y workflows de Claude Code a Codex.
+
+Publicado con GitHub Pages.
